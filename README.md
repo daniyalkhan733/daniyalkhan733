@@ -12,7 +12,7 @@ Passionate about crafting exceptional web experiences with 6+ years in the field
 ### 🚀 Quick Highlights
 
 - 🌐 Developed multiple commercial websites
-- 🤝 Contributed to Pakistan's largest charity, the Edhi Foundation
+- 🤝 Contributed to UK's largest charity, the Edhi Foundation
 - 📚 Currently pursuing a Bachelor's in Computer Science at Rizvi College of Engineering
 - 🎨 Expert in making it all look good!
 
